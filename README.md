@@ -59,24 +59,12 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-two-nu-34.vercel.app/api?username=TESTER-USERNAME&show_icons=true&theme=dark&hide_border=false" />
-  <br>
-  <img src="https://github-readme-stats-two-nu-34.vercel.app/api/top-langs/?username=TESTER-USERNAME&layout=compact&theme=dark&hide_border=false" />
-</p>
-
 ---
 
 # 📫 Let's Connect
 
-<p align="center">
-  <a href="https://linktr.ee/naveenkrishna">
-    <img src="https://custom-icon-badges.demolab.com/badge/Linktree-Connect-ff4757?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a>
-</p>
+
 
 ---
 
-> 🧠 **“Code is the tool. Creativity is the weapon.”** – <i>TESTER</i>
+>  **“Code is the tool. Creativity is the weapon.”** – <i>TESTER</i>
