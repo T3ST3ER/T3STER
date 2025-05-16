@@ -2,9 +2,7 @@
 
 <h3 align="center">🧠 A Developer of All Trades — From Code to Creativity</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TESTER-USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
-</p>
+
 
 ---
 
@@ -14,7 +12,6 @@
 - 🌐 I build **modern web apps**, **automation scripts**, **backends**, **APIs**, and more  
 - 🛠️ I love turning ideas into code with clean, scalable architecture  
 - 🧪 Nickname: `TESTER` — breaking boundaries, debugging chaos 😎  
-- 📬 Let's connect: [linktr.ee/naveenkrishna](https://linktr.ee/naveenkrishna)
 
 ---
 
