@@ -15,7 +15,7 @@
 
 ---
 
-# 💻 Languages I Speak:
+# 💻 Languages :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
